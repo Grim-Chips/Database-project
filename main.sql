@@ -1,2 +1,4 @@
-creart database hotel;
-use hotel;
+-- DB creation --
+create database Project_hotel_DB;
+-- table creation --
+create table
