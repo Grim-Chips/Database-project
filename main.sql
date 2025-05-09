@@ -7,7 +7,7 @@ create database Project_realEstate_DB;
 
 
 -- table creation
-use Project_hotel_DB;
+use Project_realEstate_DB;
 
 create table 
 
