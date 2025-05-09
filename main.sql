@@ -2,7 +2,7 @@
 
 
 
-create database Project_hotel_DB;
+create database Project_realEstate_DB;
 
 
 
