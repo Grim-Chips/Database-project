@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AK48U\\source\\repos\\Real Eastate Agent performance tracking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B99C6C5-BF2D-42F1-94D6-FB2B65B6221D}|Real Eastate Agent performance tracking\\Real Eastate Agent performance tracking.csproj|c:\\users\\ak48u\\source\\repos\\real eastate agent performance tracking\\real eastate agent performance tracking\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B99C6C5-BF2D-42F1-94D6-FB2B65B6221D}|Real Eastate Agent performance tracking\\Real Eastate Agent performance tracking.csproj|solutionrelative:real eastate agent performance tracking\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B99C6C5-BF2D-42F1-94D6-FB2B65B6221D}|Real Eastate Agent performance tracking\\Real Eastate Agent performance tracking.csproj|c:\\users\\ak48u\\source\\repos\\real eastate agent performance tracking\\real eastate agent performance tracking\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B99C6C5-BF2D-42F1-94D6-FB2B65B6221D}|Real Eastate Agent performance tracking\\Real Eastate Agent performance tracking.csproj|solutionrelative:real eastate agent performance tracking\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B99C6C5-BF2D-42F1-94D6-FB2B65B6221D}|Real Eastate Agent performance tracking\\Real Eastate Agent performance tracking.csproj|c:\\users\\ak48u\\source\\repos\\real eastate agent performance tracking\\real eastate agent performance tracking\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B99C6C5-BF2D-42F1-94D6-FB2B65B6221D}|Real Eastate Agent performance tracking\\Real Eastate Agent performance tracking.csproj|solutionrelative:real eastate agent performance tracking\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B99C6C5-BF2D-42F1-94D6-FB2B65B6221D}|Real Eastate Agent performance tracking\\Real Eastate Agent performance tracking.csproj|c:\\users\\ak48u\\source\\repos\\real eastate agent performance tracking\\real eastate agent performance tracking\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{8B99C6C5-BF2D-42F1-94D6-FB2B65B6221D}|Real Eastate Agent performance tracking\\Real Eastate Agent performance tracking.csproj|solutionrelative:real eastate agent performance tracking\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\AK48U\\source\\repos\\Real Eastate Agent performance tracking\\Real Eastate Agent performance tracking\\Form1.cs",
+              "RelativeDocumentMoniker": "Real Eastate Agent performance tracking\\Form1.cs",
+              "ToolTip": "C:\\Users\\AK48U\\source\\repos\\Real Eastate Agent performance tracking\\Real Eastate Agent performance tracking\\Form1.cs",
+              "RelativeToolTip": "Real Eastate Agent performance tracking\\Form1.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAlwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T16:29:17.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\AK48U\\source\\repos\\Real Eastate Agent performance tracking\\Real Eastate Agent performance tracking\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Real Eastate Agent performance tracking\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\AK48U\\source\\repos\\Real Eastate Agent performance tracking\\Real Eastate Agent performance tracking\\Form1.Designer.cs",
+              "RelativeToolTip": "Real Eastate Agent performance tracking\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T16:29:15.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\AK48U\\source\\repos\\Real Eastate Agent performance tracking\\Real Eastate Agent performance tracking\\Form1.resx",
+              "RelativeDocumentMoniker": "Real Eastate Agent performance tracking\\Form1.resx",
+              "ToolTip": "C:\\Users\\AK48U\\source\\repos\\Real Eastate Agent performance tracking\\Real Eastate Agent performance tracking\\Form1.resx",
+              "RelativeToolTip": "Real Eastate Agent performance tracking\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-31T16:29:15.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AK48U\\source\\repos\\Real Eastate Agent performance tracking\\Real Eastate Agent performance tracking\\Form1.cs",
+              "RelativeDocumentMoniker": "Real Eastate Agent performance tracking\\Form1.cs",
+              "ToolTip": "C:\\Users\\AK48U\\source\\repos\\Real Eastate Agent performance tracking\\Real Eastate Agent performance tracking\\Form1.cs [Design]",
+              "RelativeToolTip": "Real Eastate Agent performance tracking\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T20:15:51.238Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
