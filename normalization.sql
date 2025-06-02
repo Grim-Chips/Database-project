@@ -9,7 +9,7 @@
 --    HireDate DATE,
 --    OfficeLocation VARCHAR(100),
 --    Status ENUM('Active', 'Inactive') DEFAULT 'Active'
---https://dbdiagram.io/d/683cdee4bd74709cb794878e uml
+-- ://dbdiagram.io/d/683cdee4bd74709cb794878e uml
 
 
 USE Agent_Performance;
