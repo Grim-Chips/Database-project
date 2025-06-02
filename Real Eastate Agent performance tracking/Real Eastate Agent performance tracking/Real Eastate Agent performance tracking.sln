@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Real Eastate Agent performance tracking", "Real Eastate Agent performance tracking.csproj", "{9314144D-93E3-8D65-5E9D-466493D114FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9314144D-93E3-8D65-5E9D-466493D114FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9314144D-93E3-8D65-5E9D-466493D114FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9314144D-93E3-8D65-5E9D-466493D114FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9314144D-93E3-8D65-5E9D-466493D114FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CF7670B-8486-4EC2-872D-883EE9860F5D}
+	EndGlobalSection
+EndGlobal
