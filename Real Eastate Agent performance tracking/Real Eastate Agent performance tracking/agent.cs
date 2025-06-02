@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Real_Eastate_Agent_performance_tracking
 {
-    public partial class Form1 : Form
+    public partial class agent : Form
     {
-        public Form1()
+        public agent()
         {
             InitializeComponent();
         }
