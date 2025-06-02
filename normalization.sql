@@ -13,7 +13,7 @@
 
 
 USE Agent_Performance;
-
+-- Agent_Emails
 ALTER TABLE Agents ADD UNIQUE KEY unique_email (Email);
 -- Split into two tables
 CREATE TABLE Agent_Emails (
