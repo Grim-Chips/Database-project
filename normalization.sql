@@ -37,5 +37,3 @@ ALTER TABLE Properties ADD UNIQUE KEY address_zip (Address, ZipCode);
 
 ALTER TABLE Metrics
 ADD UNIQUE KEY agent_period (AgentID, PeriodStart, PeriodEnd);
-
-
