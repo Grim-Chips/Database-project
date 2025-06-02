@@ -9,7 +9,33 @@
 --    HireDate DATE,
 --    OfficeLocation VARCHAR(100),
 --    Status ENUM('Active', 'Inactive') DEFAULT 'Active'
-<<<<<<< HEAD:$R5ARM80.sql
 --https://dbdiagram.io/d/683cdee4bd74709cb794878e uml
-=======
->>>>>>> 3d5b39ee3e4d5ba7d9afc2902000b5f51ee23471:normalization.sql
+
+
+USE Agent_Performance;
+
+ALTER TABLE Agents ADD UNIQUE KEY unique_email (Email);
+-- Split into two tables
+CREATE TABLE Agent_Emails (
+    Email VARCHAR(100) PRIMARY KEY,
+    AgentID INT UNIQUE,
+    FOREIGN KEY (AgentID) REFERENCES Agents(AgentID)
+
+);
+
+ALTER TABLE Clients ADD UNIQUE KEY unique_email (Email);
+-- Split into two tables
+CREATE TABLE Client_Emails (
+    Email VARCHAR(100) PRIMARY KEY,
+    ClientID INT UNIQUE,
+    FOREIGN KEY (ClientID) REFERENCES Clients(ClientID)
+);
+
+
+
+ALTER TABLE Properties ADD UNIQUE KEY address_zip (Address, ZipCode);
+
+ALTER TABLE Metrics
+ADD UNIQUE KEY agent_period (AgentID, PeriodStart, PeriodEnd);
+
+
