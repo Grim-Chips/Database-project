@@ -7,7 +7,7 @@ CREATE TABLE Agents (
     AgentID INT PRIMARY KEY,
     FirstName VARCHAR(50),
     LastName VARCHAR(50),
-    Email VARCHAR(100) UNIQUE,
+    -- Email VARCHAR(100) UNIQUE, Normalized to Agent_Emails
     PhoneNumber VARCHAR(20),
     HireDate DATE,
     OfficeLocation VARCHAR(100),
@@ -19,7 +19,7 @@ CREATE TABLE Clients (
     ClientID INT PRIMARY KEY,
     FirstName VARCHAR(50),
     LastName VARCHAR(50),
-    Email VARCHAR(100) UNIQUE,
+    -- Email VARCHAR(100) UNIQUE, Normalized to Client_Emails
     PhoneNumber VARCHAR(20),
     PreferredContactMethod VARCHAR(50),
     RegistrationDate DATE

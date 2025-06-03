@@ -1,6 +1,6 @@
 ﻿namespace Real_Eastate_Agent_performance_tracking
 {
-    partial class Form1
+    partial class agent
     {
         /// <summary>
         /// Required designer variable.
@@ -85,7 +85,7 @@
             this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox1.Location = new System.Drawing.Point(164, 36);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(149, 38);
+            this.textBox1.Size = new System.Drawing.Size(234, 38);
             this.textBox1.TabIndex = 2;
             this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
@@ -94,7 +94,7 @@
             this.textBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox2.Location = new System.Drawing.Point(164, 124);
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(149, 38);
+            this.textBox2.Size = new System.Drawing.Size(234, 38);
             this.textBox2.TabIndex = 4;
             // 
             // label1
@@ -113,7 +113,7 @@
             this.textBox3.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox3.Location = new System.Drawing.Point(164, 80);
             this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(149, 38);
+            this.textBox3.Size = new System.Drawing.Size(234, 38);
             this.textBox3.TabIndex = 6;
             // 
             // label2
