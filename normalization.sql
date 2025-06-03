@@ -13,8 +13,6 @@
 
 
 USE Agent_Performance;
--- Agent_Emails
-ALTER TABLE Agents ADD UNIQUE KEY unique_email (Email);
 -- Split into two tables
 CREATE TABLE Agent_Emails (
     Email VARCHAR(100) PRIMARY KEY,
@@ -23,7 +21,6 @@ CREATE TABLE Agent_Emails (
 
 );
 
-ALTER TABLE Clients ADD UNIQUE KEY unique_email (Email);
 -- Split into two tables
 CREATE TABLE Client_Emails (
     Email VARCHAR(100) PRIMARY KEY,
